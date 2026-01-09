@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><plug-in>
 
     <!-- Plugin Informations -->
-    <name>form</name>
+    <name>testrelease</name>
     <class>fr.paris.lutece.plugins.form.service.FormPlugin</class>
-    <version>2.0.56-SNAPSHOT</version>
+    <version>3.0.0-SNAPSHOT</version>
     <description>form.plugin.description</description>
     <documentation/>
     <installation/>
