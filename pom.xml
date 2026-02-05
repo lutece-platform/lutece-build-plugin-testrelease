@@ -9,7 +9,7 @@
     <groupId>fr.paris.lutece.plugins</groupId>
     <artifactId>plugin-testrelease</artifactId>
     <packaging>lutece-plugin</packaging>
-    <version>8.0.0</version>
+    <version>8.0.1-SNAPSHOT</version>
     <name>Lutece testrelease plugin</name>
 
     <repositories>
@@ -41,6 +41,6 @@
         <connection>scm:git:https://github.com/lutece-platform/lutece-build-plugin-testrelease.git</connection>
         <developerConnection>scm:git:https://github.com/lutece-platform/lutece-build-plugin-testrelease.git</developerConnection>
         <url>https://github.com/lutece-platform/lutece-build-plugin-testrelease.git</url>
-        <tag>plugin-testrelease-8.0.0-develop_core8</tag>
+        <tag>lutece-build-plugin-testrelease-2.0.48</tag>
     </scm>
 </project>
