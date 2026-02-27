@@ -3,7 +3,7 @@
     <!-- Plugin Informations -->
     <name>testrelease</name>
     <class>fr.paris.lutece.plugins.form.service.FormPlugin</class>
-    <version>8.0.1-SNAPSHOT</version>
+    <version>8.0.2</version>
     <description>form.plugin.description</description>
     <documentation/>
     <installation/>
